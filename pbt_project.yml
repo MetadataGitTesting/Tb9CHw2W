@@ -1,0 +1,57 @@
+name: keli.jast
+description: 4th generation
+version: 4.7.6.422
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: kelijast
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:35:37'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:35:37'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:35:37.898565Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '1078921130'
+  createdAt: '2024-12-20T20:35:37.898565Z'
+  type: plibMaven
+projectDependencies:
+  '348':
+    projectUID: 348
+    projectName: saul.hermiston
+    repositoryPath: gitUri=http://gitserver:3000/dev_wwYlFYyD_team_540/dev_wwYlFYyD_project_348.git&subPath=
+    version: saul.hermiston/8.06.142
+    isDefault: false
+    author: null
+    createdAt: '2024-12-20 20:35:36'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
